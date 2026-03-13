@@ -10,11 +10,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to My React App!</h1>
+        <h1>Welcome to My React App</h1>
         <p>
           Name: Renan S. Turno<br />
-          Email: turnors@students.national-u.edu.ph<br />
-          Other Personal Info: https://github.com/renan-bot-hub
+          Email: turnors@students.national-u.edu.ph<br/>
+          Other Personal Info: <a href='https://github.com/renan-bot-hub/turno-webprog.git'>My Repository</a>
         </p>
       </header>
     </div>
